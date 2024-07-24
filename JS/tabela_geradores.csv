@@ -1,0 +1,10 @@
+ID,Potência,Produtos,Nome dos Produtos,Quantidade
+11111,1500W,"1001, 3001, 2001","Painel Solar 500 W Marca A, Inversor 500W Marca D, Controlador de Carga 30A Marca E",1
+22222,1500W,"1002, 3001, 2001","Painel Solar 500 W Marca B, Inversor 500W Marca D, Controlador de Carga 30A Marca E",1
+33333,1500W,"1003, 3001, 2001","Painel Solar 500 W Marca C, Inversor 500W Marca D, Controlador de Carga 30A Marca E",1
+44444,2500W,"1001, 3002, 2003","Painel Solar 500 W Marca A, Inversor 1000W Marca D, Controlador de Carga 40A Marca D",1
+55555,1500W,"1002, 3002, 2003","Painel Solar 500 W Marca B, Inversor 1000W Marca D, Controlador de Carga 40A Marca D",1
+66666,2500W,"1003, 3002, 2003","Painel Solar 500 W Marca C, Inversor 1000W Marca D, Controlador de Carga 40A Marca D",1
+77777,1750W,"1001, 3001, 2002","Painel Solar 500 W Marca A, Inversor 500W Marca D, Controlador de Carga 50A Marca E",1
+88888,1750W,"1003, 3001, 2002","Painel Solar 500 W Marca B, Inversor 500W Marca D, Controlador de Carga 50A Marca D",1
+99999,1750W,"1003, 3001, 2002","Painel Solar 500 W Marca C, Inversor 500W Marca D, Controlador de Carga 50A Marca D",1
