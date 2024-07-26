@@ -1,4 +1,4 @@
-# Neo Solar Generator Case 🌞⚡
+# Neo Solar Case 🌞⚡
 
 ## Descrição
 
