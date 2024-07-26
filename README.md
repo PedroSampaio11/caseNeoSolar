@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O projeto "Neo Solar Generator Case" tem como objetivo transformar componentes fornecidos pela empresa Neo Solar em geradores de energia. Utilizando JavaScript, HTML, CSS e JSON, o projeto gera uma tabela organizada dos componentes e utiliza duas bibliotecas para gerar um e-mail em PDF e um arquivo CSV para o time de marketing.
+O projeto "Neo Solar Case" tem como objetivo transformar componentes fornecidos pela empresa Neo Solar em geradores de energia. Utilizando JavaScript, HTML, CSS e JSON, o projeto gera uma tabela organizada dos componentes e utiliza duas bibliotecas para gerar um e-mail em PDF e um arquivo CSV para o time de marketing.
 
 ![Neo Solar Project](https://via.placeholder.com/800x400.png?text=Neo+Solar+Project)
 
@@ -22,7 +22,7 @@ O projeto "Neo Solar Generator Case" tem como objetivo transformar componentes f
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/usuario/neo-solar-generator-case.git
+   git clone https://github.com/usuario/neo-solar-case.git
 
 
 ## Uso 🚀
