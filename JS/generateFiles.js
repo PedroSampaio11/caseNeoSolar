@@ -21,7 +21,7 @@ async function createCSV() {
 
 async function createPDF() {
     const pdfDoc = await PDFDocument.create();
-    const page = pdfDoc.addPage();
+    const page = pdfDoc.addPage([800, 1000]);
     const { width, height } = page.getSize();
 
     const fontSize = 12;
