@@ -25,14 +25,14 @@ O projeto "Neo Solar Generator Case" tem como objetivo transformar componentes f
    git clone https://github.com/usuario/neo-solar-generator-case.git
 
 
-Uso 🚀
+## Uso 🚀
 1. **Abra o arquivo `index.html`** no navegador para visualizar a tabela dos geradores 
 
 Gerar Tabela:
 
 A tabela será automaticamente gerada e exibida na página principal (index.html).
 
-Gerar PDF e CSV:
+## Gerar PDF e CSV:
 
 Navegue até o diretório JS onde os scripts para gerar os arquivos estão localizados e execute o comando:
 node generateFiles
@@ -41,7 +41,7 @@ Esse comando executará o script que utiliza as bibliotecas para gerar automatic
 Um e-mail em PDF 📄
 Um arquivo CSV 📊
 
-Exemplos 📸
+## Exemplos 📸
 
 
 ![Tabela na Tela Principal](./img/Tabela.png)
@@ -55,7 +55,7 @@ Exemplos 📸
 
 ![Lib Rodando](./img/LibRodando.png)
 
-Contribuição 🤝
+## Contribuição 🤝
 
 Fork o repositório.
 Crie uma nova branch (git checkout -b feature/novafeature).
@@ -64,10 +64,10 @@ Envie suas mudanças (git commit -am 'Add new feature').
 Push para a branch (git push origin feature/novafeature).
 Crie um Pull Request.
 
-Licença 📜
+## Licença 📜
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Contato 📬
+## Contato 📬
 
 Para mais informações, entre em contato com o desenvolvedor:
 
